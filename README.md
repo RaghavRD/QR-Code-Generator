@@ -18,7 +18,7 @@ The QR Generator Chrome extension simplifies the process of generating QR codes 
 - Streamlined workflow: By integrating QR code generation directly into the browser, the QR Generator extension simplifies your workflow. You no longer need to navigate through multiple applications or websites to generate and share QR codes.
 ## Screenshots
 
-![App Screenshot](![Screenshot 2023-05-18 151414](https://github.com/RaghavRD/QR-Code-Generator/assets/108291726/524e9e8a-45ef-4aa9-9de1-59142e371e00))
+![App Screenshot][Screenshot 2023-05-18 151414](https://github.com/RaghavRD/QR-Code-Generator/assets/108291726/524e9e8a-45ef-4aa9-9de1-59142e371e00)
 
 
 ## How to Add Extension to Your Browser :
