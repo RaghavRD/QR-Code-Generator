@@ -1,5 +1,5 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![logo_n](https://github.com/RaghavRD/QR-Code-Generator/assets/108291726/b6fffeae-e60b-451e-9d5c-5256939a9c5e)
 
 
 # QR Generator
@@ -19,9 +19,8 @@ The QR Generator Chrome extension simplifies the process of generating QR codes 
 ## Screenshots
 
 ![App Screenshot]
-![sample_1](https://github.com/RaghavRD/QR-Code-Generator/assets/108291726/1cb205ff-1315-4405-8d75-a651a466dfa1)
-![sample_2](https://github.com/RaghavRD/QR-Code-Generator/assets/108291726/d9f7f67d-f010-45f5-83f3-39ee0a748406)
-
+![sample_1](https://github.com/RaghavRD/QR-Code-Generator/assets/108291726/d5deadd5-d01b-4d1d-ab8b-32d1c9c1ff5e)
+![sample_2](https://github.com/RaghavRD/QR-Code-Generator/assets/108291726/fc78b1c0-e7ed-4cec-ae2e-231152bca89c)
 
 
 ## How to Add Extension to Your Browser :
