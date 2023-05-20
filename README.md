@@ -1,6 +1,5 @@
 
-![logo_128](https://github.com/RaghavRD/QR-Code-Generator/assets/108291726/7969458c-def7-4142-8cde-c486f4e2384a)
-
+![LOGO](https://github.com/RaghavRD/QR-Code-Generator/assets/108291726/b9312342-846b-421b-b249-a9c69155c40e)
 
 # QR Generator
 
